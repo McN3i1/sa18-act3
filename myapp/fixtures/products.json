@@ -1,0 +1,30 @@
+[
+    {
+      "model": "myapp.Product",
+      "pk": 1,
+      "fields": {
+        "name": "Kobe 5",
+        "price": "249.99",
+        "description": "Basketball shoes"
+      }
+    },
+    {
+      "model": "myapp.Product",
+      "pk": 2,
+      "fields": {
+        "name": "IPhone 15",
+        "price": "1499.99",
+        "description": "Cellular Device"
+      }
+    },
+    {
+      "model": "myapp.Product",
+      "pk": 3,
+      "fields": {
+        "name": "Strawberry Fanta",
+        "price": "2.99",
+        "description": "Greatest drink ever created"
+      }
+    }
+  ]
+  
